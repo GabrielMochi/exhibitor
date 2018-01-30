@@ -1,0 +1,30 @@
+{
+  "name": "exhibitor",
+  "version": "1.0.0",
+  "description": "Expose your files and directories online",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielMochi/exhibitor.git"
+  },
+  "keywords": [
+    "exhibit",
+    "file",
+    "folder",
+    "lan",
+    "internal",
+    "network",
+    "static"
+  ],
+  "author": "Gabriel Mochi Ribeiro <gmochi56@icloud.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GabrielMochi/exhibitor/issues"
+  },
+  "homepage": "https://github.com/GabrielMochi/exhibitor#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "path": "^0.12.7",
+    "urlencode": "^1.1.0"
+  }
+}
