@@ -29,5 +29,5 @@ $ npm install
 ### Run the application
 
 ```sh
-$ node application <port (example: 8080)> <the address of the directory you want to expose (example: "c: / user / robot / documents")>
+$ node application <port (example: 8080)> <the address of the directory you want to expose (example: "c:/user/robot/documents")>
 ```
